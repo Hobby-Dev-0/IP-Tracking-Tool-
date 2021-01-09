@@ -1,4 +1,4 @@
-#coded by N17RO (noob hackers)
+#coded by @LEGENDX22
 
 #modules required
 import argparse
@@ -26,16 +26,11 @@ cyan = '\033[96m'
 #banner of script
 print (red+"""
 
-██╗██████╗ ██████╗ ██████╗  ██████╗ ███╗   ██╗███████╗
-██║██╔══██╗██╔══██╗██╔══██╗██╔═══██╗████╗  ██║██╔════╝
-██║██████╔╝██║  ██║██████╔╝██║   ██║██╔██╗ ██║█████╗  
-██║██╔═══╝ ██║  ██║██╔══██╗██║   ██║██║╚██╗██║██╔══╝  
-██║██║     ██████╔╝██║  ██║╚██████╔╝██║ ╚████║███████╗
-╚═╝╚═╝     ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝
+IP TRACK NOW STARTED MY MASTER LEGEND X UPDATE ME
                                                       v 1.0
 """+red)
-print (lgreen+bold+"         <===[[ coded by N17RO ]]===> \n"+clear)
-print (yellow+bold+"   <---(( search on youtube Noob Hackers ))--> \n"+clear)
+print (lgreen+bold+"         <===[[ coded by LEGEND X ]]===> \n"+clear)
+print (yellow+bold+"   <---(( search on youtube LEGEND X ))--> \n"+clear)
 
 
 ip = args.target
