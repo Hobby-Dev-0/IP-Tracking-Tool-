@@ -1,4 +1,4 @@
-#coded by @LEGENDX22
+#coded by @PythonProgramingIN
 
 #modules required
 import argparse
@@ -29,8 +29,8 @@ print (red+"""
 IP TRACK NOW STARTED MY MASTER LEGEND X UPDATE ME
                                                       v 1.0
 """+red)
-print (lgreen+bold+"         <===[[ coded by LEGEND X ]]===> \n"+clear)
-print (yellow+bold+"   <---(( search on youtube LEGEND X ))--> \n"+clear)
+print (lgreen+bold+"         <===[[ coded by @PythonProgramingIN ]]===> \n"+clear)
+print (yellow+bold+"   <---(( search On Telegram @PythonProgramingIN ))--> \n"+clear)
 
 
 ip = args.target
